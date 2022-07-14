@@ -1,6 +1,6 @@
 {
-    "name": "msp/recaptcha",
-    "description": "Google reCaptcha integration for Magento2 - Member of MageSpecialist SecuritySuite",
+    "name": "alexander6587/recaptcha",
+    "description": "Google reCaptcha integration for Magento2",
     "require": {
         "php": "^7.1|^8.0",
         "msp/security-suite-common": "^2.0",
